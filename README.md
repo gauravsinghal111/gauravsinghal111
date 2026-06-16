@@ -36,4 +36,4 @@ Production Next.js 15 site with TypeScript, Tailwind v4, shadcn/ui, and auto-dep
 
 ### 🤝 Let's connect
 
-[LinkedIn](https://www.linkedin.com/in/gaurav-singhal-5b0805265/) · gauravsinghal571@gmail.com
+[LinkedIn](https://www.linkedin.com/in/gaurav-singhal-5b0805265/)
