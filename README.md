@@ -9,11 +9,11 @@ I'm a grad from IIT Dharwad fully dived into AI/ML. I like building end-to-end s
 ### 🧩 Projects
 
 **[RAG-based AI Teaching Assistant](https://github.com/gauravsinghal111/RAG-based-AI-Teaching-Assistant)**  
-Built a retrieval-augmented generation system from scratch — custom chunking, embedding, vector search, and an answer-generation layer using Whisper + Llama. Grounded in NHS/Mayo/Cleveland Clinic sources. v2 in progress with hybrid search, cross-encoder reranking, RAGAS evaluation, and FastAPI deployment on Azure.  
+Built a retrieval-augmented generation system from scratch — custom chunking, embedding, vector search, and an answer-generation layer using Whisper + Llama.  
 `Python` `Whisper` `LLMs`
 
 **[ML-based Droplet Length Prediction (BTP)](https://github.com/gauravsinghal111/B.Tech-Project-BTP-)**  
-Final year research project at IIT Dharwad. Used ML to predict non-dimensional droplet length in flow-focusing microfluidic channels, normalizing data across 6 papers with different geometries for cross-study comparability.  
+Final year research project at IIT Dharwad. Used ML to predict non-dimensional droplet length in flow-focusing microfluidic channels, normalizing data across 50 papers with different geometries for cross-study comparability.  
 `scikit-learn` `Python`
 
 **[Heart Disease Prediction](https://github.com/gauravsinghal111/Heart-Disease-Prediction) · [House Price Prediction](https://github.com/gauravsinghal111/House-Price-Prediction)**  
