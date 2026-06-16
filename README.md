@@ -1,8 +1,8 @@
 # Hi, I'm Gaurav Singhal 👋
 
-### building AI systems · IIT Dharwad '26
+### Building AI systems · IIT Dharwad '26
 
-I'm a Chemical Engineering grad from IIT Dharwad pivoting fully into AI/ML. I like building end-to-end systems — from retrieval pipelines to deployed web apps — and I care a lot about making ML actually work in the real world, not just in notebooks.
+I'm a grad from IIT Dharwad fully dived into AI/ML. I like building end-to-end systems — from retrieval pipelines to deployed web apps — and I care a lot about making ML actually work in the real world, not just in notebooks.
 
 ---
 
