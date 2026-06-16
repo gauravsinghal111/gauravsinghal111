@@ -33,7 +33,6 @@ Production Next.js 15 site with TypeScript, Tailwind v4, shadcn/ui, and auto-dep
 **ML / AI:** scikit-learn · RAG pipelines · Whisper · Llama · embeddings
 
 **Web & Tools:** Next.js · FastAPI · Vercel · Git
----
 
 ### 🤝 Let's connect
 
