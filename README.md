@@ -28,9 +28,15 @@ Production Next.js 15 site with TypeScript, Tailwind v4, shadcn/ui, and auto-dep
 
 ### 🛠️ Tech Stack
 
-**Languages:** Python · SQL · JavaScript · TypeScript  
-**ML / AI:** scikit-learn · RAG pipelines · Whisper · Llama · embeddings  
-**Web & Tools:** Next.js · FastAPI · Vercel · Git · HPC/Bash  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)  
 ---
 
 ### 🤝 Let's connect
