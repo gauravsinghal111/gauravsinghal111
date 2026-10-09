@@ -1,6 +1,6 @@
 # Hi, I'm Gaurav Singhal 👋
 
-### Building AI systems · IIT Dharwad '26
+### Building AI systems · MS AI Carnegie Mellon University · IIT Dharwad '26
 
 I'm a grad from IIT Dharwad fully dived into AI/ML. I like building end-to-end systems — from retrieval pipelines to deployed web apps — and I care a lot about making ML actually work in the real world, not just in notebooks.
 
