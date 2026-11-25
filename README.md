@@ -8,7 +8,7 @@ I'm a Master's Artificial Intelligence Engineering student at Carnegie Mellon Un
 
 ### 🧩 Projects
 
-**[AI Security: Red-Teamed Agentic Research Platform](https://github.com/gauravsinghal111/REPO-NAME-1)**
+**[AI Security: Red-Teamed Agentic Research Platform](https://github.com/gauravsinghal111/AI-Security-Agentic-Research)**
 - Ran 14 red-team prompts (jailbreaks, prompt injection, crescendo) through Microsoft PyRIT to find security gaps.
 - Added AWS Bedrock Guardrails to check every request and reply, blocking prompt attacks, harmful content and personal data like card numbers.
 - Built 4 LangGraph agents that search, summarize, write and review reports, with TensorZero falling back from GPT-4o to Groq when it fails.
@@ -16,14 +16,14 @@ I'm a Master's Artificial Intelligence Engineering student at Carnegie Mellon Un
 
 `Python` `LangGraph` `PyRIT` `AWS Bedrock` `TensorZero` `LangSmith` `Redis` `AWS ECS` `Terraform`
 
-**[Secure Enterprise Agentic RAG](https://github.com/gauravsinghal111/REPO-NAME-2)**
+**[Secure Enterprise Agentic RAG](https://github.com/gauravsinghal111/Secure-Enterprise-Agentic-RAG)**
 - Built a LangGraph RAG agent on GCP that filters noisy data from real documents using Qdrant and FlashRank re-ranking.
 - Added NeMo Guardrails to block jailbreaks and prompt injection, and tested how many attacks they caught.
 - Routed LLM calls through a Portkey gateway with backup models, scored answers with RAGAS and deployed on Cloud Run.
 
 `Python` `LangGraph` `NeMo Guardrails` `Portkey` `RAGAS` `Qdrant` `GCP Cloud Run` `Vertex AI`
 
-**[DocAgent: Intelligent Document Processing AI Agent](https://github.com/gauravsinghal111/REPO-NAME-3)**
+**[DocAgent: Intelligent Document Processing AI Agent](https://github.com/gauravsinghal111/Intelligent-Document-Processing-AI-Agent)**
 - Added OCR for scanned PDFs and photos with a vision-model fallback, plus rule-based checks for 6 error types alongside LLM review.
 - Built a 73-document synthetic test set; a regex baseline scored 89.7% accuracy and 77.7% extraction F1.
 - Fixed broken Langfuse tracing, moved off retired Groq models, cut LLM calls per chat message from 3N+1 to 1, and added 34 automated tests.
